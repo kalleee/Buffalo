@@ -5,7 +5,6 @@ namespace Buffalo {
 	{
 	}
 
-
 	Application::~Application()
 	{
 	}

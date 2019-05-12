@@ -1,0 +1,3 @@
+[submodule "Buffalo/vendor/spdlog"]
+	path = Buffalo/vendor/spdlog
+	url = https://github.com/gabime/spdlog
