@@ -1,10 +1,10 @@
 #pragma once
 
-//For use by Buffalo application
+// For use by Buffalo application
 
 #include "Buffalo/Application.h"
 #include "Buffalo/Log.h"
 
-// ----ENTRY POINT-----------
+// -------ENTRY POINT-------
 #include "Buffalo/EntryPoint.h"
 // -------------------------

@@ -14,7 +14,7 @@ namespace Buffalo {
 		void Run();
 	};
 
-	//To be defined in Client
+	// To be defined in Client
 	Application* CreateApplication();
 
 }
