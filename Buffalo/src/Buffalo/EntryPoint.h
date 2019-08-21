@@ -2,6 +2,7 @@
 
 #ifdef BF_PLATFORM_WINDOWS
 
+#endif
 extern Buffalo::Application* Buffalo::CreateApplication();
 
 int main(int argc, char** argv) {
@@ -16,4 +17,3 @@ int main(int argc, char** argv) {
 
 	return 0;
 }
-#endif
